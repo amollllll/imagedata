@@ -1,0 +1,23 @@
+insulator
+defect
+missing insulation
+insulation
+broken
+rusting
+short pin
+ring damage
+nut rusting
+shortpin
+nut missing
+non standard installation
+pin short
+pin rusting
+pin short of sales
+ring shift
+ring  shift
+pin inadequate installation
+ring falling
+ring fall
+pin anadequate installation
+cable rusting
+valid
